@@ -1,0 +1,50 @@
+alias:: Продуктовый менеджмент, продакт-менеджмент
+
+-
+- [[Введение]] *Introduction*
+	- [[Определение и область]] *Definition and Scope*
+	- [[Важность в бизнесе]] *Importance in Business*
+- [[Основные концепции]] *Key Concepts*
+	- [[Жизненный цикл продукта]] *Product Lifecycle*
+	- [[Исследование рынка]] *Market Research*
+	- [[Пользовательские персоны]] *User Personas*
+	- [[Минимально жизнеспособный продукт (MVP)]] *Minimum Viable Product (MVP)*
+- [[Стратегия]] *Strategy*
+	- [[Планирование]] *Roadmapping*
+	- [[Конкурентный анализ]] Competitive Analysis
+	- [[SWOT-анализ]] *SWOT Analysis*
+	- [[Установка целей]] *Goal Setting*
+- [[Разработка]] *Development*
+	- [[Гибкая методология]] *Agile Methodology*
+	- [[Фреймворк Scrum]] *Scrum Framework*
+	- [[Приоритет функций]] *Feature Prioritization*
+	- [[Прототипирование]] *Prototyping*
+- [[Запуск]] *Launch*
+	- [[Бета-тестирование]] *Beta Testing*
+	- [[Маркетинговая стратегия]] *Marketing Strategy*
+	- [[Внедрение пользователей]] *User Onboarding*
+	- [[Сбор обратной связи]] *Feedback Collection*
+- [[Итерации и улучшения]] *Iteration and Improvement*
+	- [[Постоянное внедрение]] *Continuous Deployment*
+	- [[A/B-тестирование]] *A/B Testing*
+	- [[Цикл обратной связи с пользователями]] *User Feedback Loop*
+	- [[Метрики и аналитика]] *Metrics and Analytics*
+- [[Сотрудничество]] *Collaboration*
+	- [[Кросс-функциональные команды]] *Cross-functional Teams*
+	- [[Управление заинтересованными сторонами]] *Stakeholder Management*
+	- [[Стратегии коммуникации]] *Communication Strategies*
+- [[Инструменты]] *Tools*
+	- [[Управление проектами]] *Project Management*
+	- [[Платформы сотрудничества]] *Collaboration Platforms*
+	- [[Инструменты прототипирования]] *Prototyping Tools*
+	- [[Инструменты аналитики и метрик]] *Analytics and Metrics Tools*
+- [[Трудности и решения]] *Challenges and Solutions*
+	- [[Общие ошибки]] *Common Pitfalls*
+	- [[Управление рисками]] *Risk Management*
+	- [[Кризисное управление]] *Crisis Management*
+	- [[Адаптация к изменениям на рынке]] *Adaptation to Market Changes*
+- [[Ресурсы]] *Resources*
+	- [[Книги]] *Books*
+	- [[Блоги и веб-сайты]] *Blogs and Websites*
+	- [[Онлайн-курсы]] *Online Courses*
+	- [[Конференции]] *Conferences*
